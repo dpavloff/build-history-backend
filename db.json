@@ -1421,6 +1421,1089 @@
         }
       ],
       "id": "v1-1635369803424-4918514016831"
+    },
+    {
+      "name": "TTFB",
+      "value": 26634,
+      "delta": 26634,
+      "entries": [
+        {
+          "name": "http://localhost:3000/build-history-layout",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 27373,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": -4,
+          "domainLookupStart": 75,
+          "domainLookupEnd": 76,
+          "connectStart": 76,
+          "connectEnd": 76,
+          "secureConnectionStart": 0,
+          "requestStart": 186,
+          "responseStart": 26634,
+          "responseEnd": 26634,
+          "transferSize": 916,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 27231,
+          "domContentLoadedEventStart": 27231,
+          "domContentLoadedEventEnd": 27236,
+          "domComplete": 27367,
+          "loadEventStart": 27367,
+          "loadEventEnd": 27373,
+          "type": "navigate",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635413122849-8412023681758"
+    },
+    {
+      "name": "FCP",
+      "value": 765,
+      "delta": 765,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 765,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635413360266-1458629315501"
+    },
+    {
+      "name": "FID",
+      "value": 3,
+      "delta": 3,
+      "entries": [
+        {
+          "name": "keydown",
+          "entryType": "first-input",
+          "startTime": 779,
+          "duration": 5,
+          "processingStart": 782,
+          "processingEnd": 782,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635413360265-3624203980206"
+    },
+    {
+      "name": "TTFB",
+      "value": 341,
+      "delta": 341,
+      "entries": [
+        {
+          "name": "http://localhost:3000/build-history-layout",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 978,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": -5,
+          "domainLookupStart": 65,
+          "domainLookupEnd": 65,
+          "connectStart": 65,
+          "connectEnd": 66,
+          "secureConnectionStart": 0,
+          "requestStart": 338,
+          "responseStart": 341,
+          "responseEnd": 341,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 769,
+          "domContentLoadedEventStart": 777,
+          "domContentLoadedEventEnd": 781,
+          "domComplete": 978,
+          "loadEventStart": 978,
+          "loadEventEnd": 978,
+          "type": "navigate",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635413360269-9106601187151"
+    },
+    {
+      "name": "FCP",
+      "value": 741,
+      "delta": 741,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 741,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635413625789-7847611704544"
+    },
+    {
+      "name": "TTFB",
+      "value": 39,
+      "delta": 39,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 821,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 0,
+          "domainLookupEnd": 0,
+          "connectStart": 0,
+          "connectEnd": 0,
+          "secureConnectionStart": 0,
+          "requestStart": 37,
+          "responseStart": 39,
+          "responseEnd": 39,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 49,
+          "unloadEventEnd": 50,
+          "domInteractive": 743,
+          "domContentLoadedEventStart": 755,
+          "domContentLoadedEventEnd": 759,
+          "domComplete": 813,
+          "loadEventStart": 813,
+          "loadEventEnd": 821,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635413625796-4607923379216"
+    },
+    {
+      "name": "FCP",
+      "value": 469,
+      "delta": 469,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 469,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414325623-4068903810171",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 30,
+      "delta": 30,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 516,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 16,
+          "domainLookupEnd": 16,
+          "connectStart": 17,
+          "connectEnd": 18,
+          "secureConnectionStart": 0,
+          "requestStart": 28,
+          "responseStart": 30,
+          "responseEnd": 30,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 42,
+          "unloadEventEnd": 42,
+          "domInteractive": 485,
+          "domContentLoadedEventStart": 492,
+          "domContentLoadedEventEnd": 494,
+          "domComplete": 509,
+          "loadEventStart": 509,
+          "loadEventEnd": 516,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414325627-7002945603291",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 1,
+      "delta": 1,
+      "entries": [
+        {
+          "name": "keydown",
+          "entryType": "first-input",
+          "startTime": 3051,
+          "duration": 1644,
+          "processingStart": 3052,
+          "processingEnd": 3052,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414325622-8923438368576",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 699,
+      "delta": 699,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 699,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414340064-8556770715631",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 19,
+      "delta": 19,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 751,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 14,
+          "domainLookupEnd": 14,
+          "connectStart": 14,
+          "connectEnd": 14,
+          "secureConnectionStart": 0,
+          "requestStart": 17,
+          "responseStart": 19,
+          "responseEnd": 19,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 28,
+          "unloadEventEnd": 29,
+          "domInteractive": 711,
+          "domContentLoadedEventStart": 718,
+          "domContentLoadedEventEnd": 721,
+          "domComplete": 744,
+          "loadEventStart": 744,
+          "loadEventEnd": 751,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414340067-5214804168918",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 15,
+      "delta": 15,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 10800,
+          "duration": 15,
+          "processingStart": 10815,
+          "processingEnd": 10815,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414340064-4632331868987",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 500,
+      "delta": 500,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 500,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414354198-6121076402588",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 23,
+      "delta": 23,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 603,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 15,
+          "domainLookupEnd": 16,
+          "connectStart": 16,
+          "connectEnd": 16,
+          "secureConnectionStart": 0,
+          "requestStart": 22,
+          "responseStart": 23,
+          "responseEnd": 23,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 31,
+          "unloadEventEnd": 31,
+          "domInteractive": 516,
+          "domContentLoadedEventStart": 521,
+          "domContentLoadedEventEnd": 525,
+          "domComplete": 597,
+          "loadEventStart": 597,
+          "loadEventEnd": 603,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414354200-1581093430365",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 1,
+      "delta": 1,
+      "entries": [
+        {
+          "name": "keydown",
+          "entryType": "first-input",
+          "startTime": 7191,
+          "duration": 2686,
+          "processingStart": 7192,
+          "processingEnd": 7192,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414354198-6094967261383",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 437,
+      "delta": 437,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 437,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414368163-5356404144736",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 19,
+      "delta": 19,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 585,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 14,
+          "domainLookupEnd": 14,
+          "connectStart": 14,
+          "connectEnd": 15,
+          "secureConnectionStart": 0,
+          "requestStart": 17,
+          "responseStart": 19,
+          "responseEnd": 19,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 30,
+          "unloadEventEnd": 31,
+          "domInteractive": 456,
+          "domContentLoadedEventStart": 457,
+          "domContentLoadedEventEnd": 459,
+          "domComplete": 580,
+          "loadEventStart": 580,
+          "loadEventEnd": 585,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414368164-9536666120624",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 17,
+      "delta": 17,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 5865,
+          "duration": 16,
+          "processingStart": 5882,
+          "processingEnd": 5882,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414368162-9132113668126",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 644,
+      "delta": 644,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 644,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414689671-6880549974597",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 25,
+      "delta": 25,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 729,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 18,
+          "domainLookupEnd": 18,
+          "connectStart": 19,
+          "connectEnd": 19,
+          "secureConnectionStart": 0,
+          "requestStart": 24,
+          "responseStart": 25,
+          "responseEnd": 25,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 37,
+          "unloadEventEnd": 37,
+          "domInteractive": 660,
+          "domContentLoadedEventStart": 660,
+          "domContentLoadedEventEnd": 664,
+          "domComplete": 722,
+          "loadEventStart": 722,
+          "loadEventEnd": 729,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414689674-9442652972887",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 9,
+      "delta": 9,
+      "entries": [
+        {
+          "name": "keydown",
+          "entryType": "first-input",
+          "startTime": 5421,
+          "duration": 88,
+          "processingStart": 5430,
+          "processingEnd": 5430,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414689671-5737322593478",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 4885,
+      "delta": 4885,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 4885,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414780964-3768882396865",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 4412,
+      "delta": 4412,
+      "entries": [
+        {
+          "name": "http://localhost:3000/build-history-layout",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 5009,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": -30,
+          "domainLookupStart": 50,
+          "domainLookupEnd": 50,
+          "connectStart": 51,
+          "connectEnd": 51,
+          "secureConnectionStart": 0,
+          "requestStart": 569,
+          "responseStart": 4412,
+          "responseEnd": 4412,
+          "transferSize": 916,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 4886,
+          "domContentLoadedEventStart": 4892,
+          "domContentLoadedEventEnd": 4895,
+          "domComplete": 5008,
+          "loadEventStart": 5008,
+          "loadEventEnd": 5009,
+          "type": "navigate",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414780966-6987206307296",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 10,
+      "delta": 10,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 7275,
+          "duration": 14,
+          "processingStart": 7285,
+          "processingEnd": 7287,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414780964-8058056254006",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 690,
+      "delta": 690,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 690,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635414812319-4029057287700",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 24,
+      "delta": 24,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 741,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 1,
+          "domainLookupStart": 13,
+          "domainLookupEnd": 14,
+          "connectStart": 14,
+          "connectEnd": 14,
+          "secureConnectionStart": 0,
+          "requestStart": 21,
+          "responseStart": 24,
+          "responseEnd": 24,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 33,
+          "unloadEventEnd": 34,
+          "domInteractive": 691,
+          "domContentLoadedEventStart": 697,
+          "domContentLoadedEventEnd": 699,
+          "domComplete": 736,
+          "loadEventStart": 736,
+          "loadEventEnd": 741,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635414812321-6591595827037",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 22,
+      "delta": 22,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 8554,
+          "duration": 25,
+          "processingStart": 8576,
+          "processingEnd": 8578,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635414812318-8528277790811",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 1032,
+      "delta": 1032,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 1032,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635415462922-2665444155626",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 1,
+      "delta": 1,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 1084,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 1,
+          "domainLookupStart": 1,
+          "domainLookupEnd": 1,
+          "connectStart": 1,
+          "connectEnd": 1,
+          "secureConnectionStart": 0,
+          "requestStart": 1,
+          "responseStart": 1,
+          "responseEnd": 1,
+          "transferSize": 0,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 1035,
+          "domContentLoadedEventStart": 1044,
+          "domContentLoadedEventEnd": 1050,
+          "domComplete": 1076,
+          "loadEventStart": 1076,
+          "loadEventEnd": 1084,
+          "type": "back_forward",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635415462926-7146451393986",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 13,
+      "delta": 13,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 2013,
+          "duration": 19,
+          "processingStart": 2026,
+          "processingEnd": 2028,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635415462922-7462934469811",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 645,
+      "delta": 645,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 645,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635415507263-5663267958607",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 56,
+      "delta": 56,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 788,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 54,
+          "domainLookupEnd": 54,
+          "connectStart": 55,
+          "connectEnd": 55,
+          "secureConnectionStart": 0,
+          "requestStart": 55,
+          "responseStart": 56,
+          "responseEnd": 56,
+          "transferSize": 916,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 68,
+          "unloadEventEnd": 69,
+          "domInteractive": 648,
+          "domContentLoadedEventStart": 661,
+          "domContentLoadedEventEnd": 666,
+          "domComplete": 782,
+          "loadEventStart": 782,
+          "loadEventEnd": 788,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635415507267-2327333999142",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 4,
+      "delta": 4,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 7764,
+          "duration": 5,
+          "processingStart": 7768,
+          "processingEnd": 7768,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635415507263-6707257994327",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 1516,
+      "delta": 1516,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 1516,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635416144881-4972906090323",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 0,
+      "delta": 0,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 1567,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 0,
+          "domainLookupEnd": 0,
+          "connectStart": 0,
+          "connectEnd": 0,
+          "secureConnectionStart": 0,
+          "requestStart": 0,
+          "responseStart": 0,
+          "responseEnd": 0,
+          "transferSize": 0,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 0,
+          "unloadEventEnd": 0,
+          "domInteractive": 1532,
+          "domContentLoadedEventStart": 1538,
+          "domContentLoadedEventEnd": 1541,
+          "domComplete": 1561,
+          "loadEventStart": 1561,
+          "loadEventEnd": 1567,
+          "type": "back_forward",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635416144883-8280921362345",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 8,
+      "delta": 8,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 2673,
+          "duration": 9,
+          "processingStart": 2681,
+          "processingEnd": 2681,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635416144881-8597399775654",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 663,
+      "delta": 663,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 663,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635416158050-9408773648861",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "TTFB",
+      "value": 36,
+      "delta": 36,
+      "entries": [
+        {
+          "name": "http://localhost:3000/home",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 807,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 1,
+          "domainLookupStart": 34,
+          "domainLookupEnd": 34,
+          "connectStart": 34,
+          "connectEnd": 34,
+          "secureConnectionStart": 0,
+          "requestStart": 34,
+          "responseStart": 36,
+          "responseEnd": 36,
+          "transferSize": 916,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 44,
+          "unloadEventEnd": 44,
+          "domInteractive": 661,
+          "domContentLoadedEventStart": 679,
+          "domContentLoadedEventEnd": 685,
+          "domComplete": 797,
+          "loadEventStart": 797,
+          "loadEventEnd": 807,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635416158053-8623229853933",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FID",
+      "value": 10,
+      "delta": 10,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 3296,
+          "duration": 17,
+          "processingStart": 3306,
+          "processingEnd": 3307,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635416158050-9582678542066",
+      "date": "28.10.2021"
+    },
+    {
+      "name": "FCP",
+      "value": 1152,
+      "delta": 1152,
+      "entries": [
+        {
+          "name": "first-contentful-paint",
+          "entryType": "paint",
+          "startTime": 1152,
+          "duration": 0
+        }
+      ],
+      "id": "v1-1635417233828-3863956091574",
+      "timestamp": 1635417233828
+    },
+    {
+      "name": "TTFB",
+      "value": 55,
+      "delta": 55,
+      "entries": [
+        {
+          "name": "http://localhost:3000/stats",
+          "entryType": "navigation",
+          "startTime": 0,
+          "duration": 1223,
+          "initiatorType": "navigation",
+          "nextHopProtocol": "http/1.1",
+          "workerStart": 0,
+          "redirectStart": 0,
+          "redirectEnd": 0,
+          "fetchStart": 0,
+          "domainLookupStart": 42,
+          "domainLookupEnd": 42,
+          "connectStart": 42,
+          "connectEnd": 42,
+          "secureConnectionStart": 0,
+          "requestStart": 50,
+          "responseStart": 55,
+          "responseEnd": 55,
+          "transferSize": 201,
+          "encodedBodySize": 641,
+          "decodedBodySize": 641,
+          "serverTiming": [],
+          "unloadEventStart": 95,
+          "unloadEventEnd": 97,
+          "domInteractive": 1150,
+          "domContentLoadedEventStart": 1182,
+          "domContentLoadedEventEnd": 1190,
+          "domComplete": 1210,
+          "loadEventStart": 1210,
+          "loadEventEnd": 1223,
+          "type": "reload",
+          "redirectCount": 0
+        }
+      ],
+      "id": "v1-1635417233832-1761046783618",
+      "timestamp": 1635417233848
+    },
+    {
+      "name": "FID",
+      "value": 18,
+      "delta": 18,
+      "entries": [
+        {
+          "name": "mousedown",
+          "entryType": "first-input",
+          "startTime": 14653,
+          "duration": 20,
+          "processingStart": 14671,
+          "processingEnd": 14673,
+          "cancelable": true
+        }
+      ],
+      "id": "v1-1635417233827-3691696927450",
+      "timestamp": 1635417247300
     }
   ]
 }
